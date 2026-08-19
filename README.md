@@ -23,15 +23,10 @@
 - 游戏已启用中文（官方 Beta 中文或适配的汉化补丁均可）
 
 ### 安装方法
-#### 直接使用
-1. 从 GitHub Releases 页面下载最新版本的 MOD 压缩包
-2. 解压压缩包，将data与swfs文件夹复制到游戏本地文件夹（与 resources.gpak 文件同级的目录）
-2. 启动游戏即可生效
+1. 从 Releases 页面下载最新版本压缩包
+2. 解压，将data与swfs文件夹复制到游戏本地文件夹（与 resources.gpak 文件同级）
+3. 覆盖同名文件
+4. 启动游戏即可生效
 
-#### Mewtator
-1. 下载并安装喵喵的结合mod管理器 Mewtator(https://www.nexusmods.com/mewgenics/mods/)
-2. 将本 MOD 解压后放入 Mewtator 的 mods 文件夹中
-3. 在 Mewtator 中启用本 MOD
-4. 通过 Mewtator 启动游戏
 
-如有问题或建议，欢迎提交 Issue 或 Pull Request。
+欢迎提交反馈与建议。
