@@ -2,7 +2,7 @@
 喵喵的结合简体中文字体替换
 
 ## 介绍
-使用了微博 **@PhlegmaticTuna** 的字体选择，通过 https://github.com/rainzz-512/Mewgenics-Chinese-Translation 的方式生成字体swf文件后替换international_fonts.swf内对应字体标签来达到替换字体的效果。
+使用了微博 [PhlegmaticTuna](https://mapp.api.weibo.cn/fx/a63a4c7a7914d52b01c60e6625549945.html) 的字体选择，通过 [rainzz-512](https://github.com/rainzz-512/Mewgenics-Chinese-Translation) 的方式生成字体swf文件后替换international_fonts.swf内对应字体标签来达到替换字体的效果。非常感谢！
 
 使用字体均为免费商用字体，仅替换游戏中的中文字体，不包含游戏文本。
 
@@ -33,11 +33,5 @@
 2. 将本 MOD 解压后放入 Mewtator 的 mods 文件夹中
 3. 在 Mewtator 中启用本 MOD
 4. 通过 Mewtator 启动游戏
-
-## 三、致谢
-
-- **特别感谢微博 @PhlegmaticTuna 大佬**，为本 MOD 提供了全部字体选择方案。
-- **rainzz-512**（Mewgenics-Chinese-Translation，包含字体替换功能）
-
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request。
